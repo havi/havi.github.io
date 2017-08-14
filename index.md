@@ -4,6 +4,14 @@ You can use the [editor on GitHub](https://github.com/havi/havi.github.io/edit/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+**HAVI's note:** So, this is long overdue, but doesn't mean it can't be done. I'm bringing myself to Github, platform of developers everywhere, and an essential bit of web infrastructure. 
+
+The power of **learning new things** at any age. Taking chances. Stepping out of the zone of comfort. Traveling lighter in order to **move more nimbly**. Memorization. Public speaking. Travel adventures. Learning new languages. 
+
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
